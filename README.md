@@ -5,7 +5,7 @@
 ### Mó Viagem
 ##### 1° Semestre • 2022-1
 <p>Parceiro Acadêmico: <a href="https://fatecsjc-prd.azurewebsites.net/">Faculdade de Tecnologia de São José dos Campos</a></p>
-<p align = "center"><img src= "Images/logo.png" width="300" height="300"></p>
+<p align = "center"><img src= "Images/logo api 1.png" width="300" height="300"></p>
 <p>A aplicação Mó Viagem é uma assistente virtual de viagens, que tem como objetivo auxiliar o planejamento de viagens futuras. O usuário pode pedir informações, pontos turísticos, curiosidades e deixar registrado quais os próximos destinos ele quer conhecer entre outras funcionalidades. É possível também perguntar a previsão do tempo para cada destino.</p>
 
 ## Tecnologias Utilizadas
