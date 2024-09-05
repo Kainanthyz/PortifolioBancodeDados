@@ -23,3 +23,7 @@
 * __Webbrowser:__ Biblioteca do Python que permite abrir de maneira fácil URLs em navegadores da web padrão do sistema;
 * __Pyttsx3__: Biblioteca do Python que fornece uma interface para síntese de voz.
 <br><br>  
+
+
+## Contribuições pessoais
+
