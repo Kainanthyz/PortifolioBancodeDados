@@ -4,5 +4,5 @@
 <hr></hr>
 
 ## Sobre mim
-<p align="center"><img src= "Imagens/caina.png" width="420" height="300"></p>
+<p align="center"><img src= "Imagens/caina.png" width="300" height="300"></p>
 
