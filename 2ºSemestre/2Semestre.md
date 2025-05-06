@@ -145,39 +145,6 @@ A classe que contém o método de cadastro de vagas no banco então coleta os da
 </details>
 <br>
 
-### Autenticação do RH
-<p>Uma das funções primordiais ao se desenvolver um sistema é a autenticação, pois é com a mesma que os usuários conseguirão acessar as informações e executar tarefas dentro da aplicação. Para cada perfil de usuário deve ser apresentado páginas diferentes, pois os mesmos exercem funções diferentes na aplicação. Um candidato deve ter a visibilidade de vagas de emprego, progresso de vagas que está concorrendo por exemplo, enquanto uma pessoa do RH é responsável por criar as vagas e aprovar ou reprovar os candidatos.</p>
-<details>
-  <summary><h4>Mais detalhes</h4></summary>
-  <p>A autenticação na aplicação precisa ser capaz de saber quem é um perfil RH e um perfil Candidato, para apresentar as devidas páginas corretamente. Para isso, foi criada uma 
-  tela de autenticação unificada, ou seja, todos os usuários da aplicação utilizam a mesma tela para ingressar. Nesta tela foi criado dois campos clicáveis, em que é possível 
-  escolher qual perfil de usuário a pessoa é. Em seguida, o usuário preenche os campos de CPF e Senha e clica no botão para entrar na aplicação. Ao clicar no botão, o sistema
-  coleta os dados preenchidos pelo usuário e executa uma consulta no banco de dados para saber se o usuário está cadastrado. Caso usuário exista, um pop-up é apresentado dando 
-  boas-vindas ao mesmo e abrindo a home page do usuário RH, caso o contrário, é apresentado um pop-up esclarecendo que a o CPF e/ou a senha estão incorretos. </p>
-  <p>Abaixo é mostrado como é realizada a consulta para saber se o usuário RH existe no banco de dados:</p>
-  
-  ```java
-      public ResultSet loginRh(Rh objrh) {
-    
-        conn = new ConexaoDAO().conectaBD();
-    
-        try {
-          
-            String sql = "select * from rh where cpf = ? and senha = MD5(?)";
-            PreparedStatement pstm2 = conn.prepareStatement(sql);
-           
-            pstm2.setString(1, objrh.getCpf());
-            pstm2.setString(2, objrh.getSenha());
-            
-            ResultSet rs = pstm2.executeQuery();
-            return rs;
-        } catch (SQLException erro) {
-            JOptionPane.showMessageDialog(null, "RHdao" + erro);
-            return null;
-        }
-    }
-```
-</details>
 <hr></hr>
 <br><br>
 
