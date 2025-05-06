@@ -144,7 +144,7 @@ A classe que contém o método de cadastro de vagas no banco então coleta os da
   ```
 </details>
 <br>
-
+</details>
 <hr></hr>
 <br><br>
 
