@@ -2,7 +2,7 @@
 ## Local Tracker - Sistema de Geolocalização
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/54943760-4003-44e1-a4aa-a9bb536bf6bc" width="380" height="220" alt="Local Tracker">
+  <img src="https://github.com/user-attachments/assets/54943760-4003-44e1-a4aa-a9bb536bf6bc" width="780" height="220" alt="Local Tracker">
 </p>
 
 **Parceiro Acadêmico:** [ITO1](https://ito1.com.br/)
