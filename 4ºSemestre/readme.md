@@ -136,9 +136,3 @@ public class GeofenceService {
 | Resolução de Problemas   | Otimização de queries geoespaciais para grandes volumes de dados      |
 | Gestão de Tempo          | Entrega de funcionalidades complexas em sprints de 3 semanas          |
 | Comunicação              | Apresentações técnicas para stakeholders não-técnicos                 |
-
-## 📊 Métricas do Projeto
-
-- **+15.000** localizações processadas/dia  
-- **97.8%** disponibilidade em testes de carga  
-- **200ms** tempo médio de resposta (filtros complexos)  
