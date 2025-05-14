@@ -136,17 +136,48 @@ Essas tecnologias facilitam a interação entre o usuário e a aplicação, perm
 ## Aprendizados
 <p>Durante o projeto da API do 1ºSemestre atuei como desenvolvedor, elaborando e construindo implementações do projeto. Pude aumentar o meu conhecimento na linguagem Python e utilizá-la para diferentes propósitos. Além de compreender como funciona a lógica de programação, conceitos de repetição, conceitos de condicionais entre outros paradigmas da programação.</p>
 
-### - Hard Skills:
-* Conhecimento e aprofundamento de lógica de programação na linguaguem Python
-* Desenvolvimento de API para obtenção de recursos
-* Compreensão na manipulação de dicionários
-* Desenvolvimento de aplicação que compreende a fala humana e pode se comunicar com o usuário por voz
+## � Soft Skills  
 
-### - Soft Skills:
-* Empatia
-* Colobaração
-* Autonomia
-* Proatividade
+## 1. **Comunicação Clara**  
+   - **Descrição**  
+     Trabalhar em equipe exige transmitir ideias de forma eficiente, evitando ruídos e retrabalho.
+
+     Durante um projeto de implementação de um novo sistema, atuei como ponte entre desenvolvedores e o setor comercial, traduzindo termos técnicos para uma linguagem acessível. Isso garantiu alinhamento rápido e reduziu erros nos requisitos em **30%**.  
+
+## 2. **Resolução de Problemas**  
+   - **Descrição**  
+     Imprevistos podem paralisar operações se não forem resolvidos com agilidade e criatividade.
+
+     Identifiquei um gargalo no fluxo de entregas usando análise de dados e propus um redesenho das rotas, reduzindo o tempo de entrega em **15%**.  
+
+## 3. **Adaptabilidade**  
+   - **Descrição**  
+     Mudanças de escopo ou prioridades são comuns em ambientes dinâmicos.
+
+     Quando um cliente alterou urgentemente as especificações de um produto, reestruturei minha agenda e priorizei as novas demandas sem impactar o prazo final.  
+
+---  
+
+### 💻 Hard Skills  
+
+## 1. **Python (Análise de Dados)**  
+   - **Descrição**  
+     Automatizar processos manuais aumenta a eficiência e reduz falhas humanas.
+
+     Desenvolvi um script em Python para consolidar relatórios mensais de vendas, que antes levavam **8 horas manuais**. A solução passou a gerar os dados em **20 minutos**.  
+
+## 2. **Gestão de Projetos (Metodologia Ágil)**  
+   - **Descrição**  
+     Equipes multidisciplinares precisam de coordenação clara para entregas iterativas.
+
+     Como Scrum Master em um projeto de TI, organizei *sprints* quinzenais e *daily meetings*, resultando em uma entrega **10% mais rápida** que o planejado.  
+
+## 3. **Pacote Office Avançado (Excel, Power BI)**  
+   - **Descrição**  
+     Tomadas de decisão precisam ser baseadas em dados visualizados de forma intuitiva.
+       
+     Criei um dashboard no Power BI para monitorar KPIs de logística, permitindo que a equipe identificasse tendências e ajustasse estratégias em **tempo real**.  
+
 <hr></hr>
 <br>
 

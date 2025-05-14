@@ -187,20 +187,12 @@ A classe que contém o método de cadastro de vagas no banco então coleta os da
       <th width="300px">Descrição</th>
     </tr>
     <tr>
-      <td>Organização</td>
-      <td>Precisei me organizar para realizar o priorização do backlog do produto</td>
-    </tr>
-    <tr>
       <td>Trabalho em Equipe</td>
-      <td>Precisei trabalhar em equipe para que as entregas fossem entregues com uma alta qualidade</td>
+      <td>Precisei trabalhar em equipe para que as entregas fossem entregues com uma alta qualidade, já que no primeiro semestre foi um projeto bem mais simples e com menos comunicação entre a equipe</td>
     </tr>
     <tr>
       <td>Gestão de Tempo</td>
-      <td>Precisei gerenciar meu tempo para entregar as atividaes no prazo estipulado</td>
-    </tr>
-    <tr>
-      <td>Inteligência Emocional</td>
-      <td>Precisei controlar minhas emoções para que meu emocional não atrapalhasse meu desempenho</td>
+      <td>Precisei gerenciar meu tempo para entregar as atividaes no prazo estipulado, também por caisa de mais atividades e trabalhos referente a toda a faculdade</td>
     </tr>
 </table>
 
