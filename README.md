@@ -4,5 +4,6 @@
 <hr></hr>
 
 ## Sobre mim
-<p align="center"><img src= "Imagens/caina.png" width="300" height="300"></p>
+<p align="center"><img width="256" height="256" alt="caina" src="https://github.com/user-attachments/assets/3fcee2bb-51cc-4e7d-be80-0324fa4ab7e0" />
+</p>
 
