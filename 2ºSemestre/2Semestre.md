@@ -1,7 +1,8 @@
 ## 2° Semestre • 2022-2
 #### PRO4Jobs
 <p>Parceiro Acadêmico: <a href="https://www.pro4tech.com.br/">PRO4TECH</a></p>
-<p align = "center"><img src= "imagens/logo2sem.png" width="250" height="250"></p>
+<p align = "center"><img width="500" height="500" alt="logo2sem" src="https://github.com/user-attachments/assets/b33355b4-e8f3-449b-ad55-36e2b51952d1" />
+</p>
 <p>PRO4Jobs é uma aplicação desenvolvida para desktop e tem como principal intuito ajudar no controle e gerenciamento de vagas de emprego. O candidato realiza sua autenticação e pode encontrar, analisar e se canditar a vagas de emprego que possui interesse. Por outro lado, o RH consegue analisar os currículos dos candidatos para uma determinada vaga, além de poder aprovar ou reprovar os mesmos. </p>
 
 ## Tecnologias Utilizadas
