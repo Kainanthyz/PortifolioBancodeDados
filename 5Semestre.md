@@ -1,4 +1,4 @@
-# 5° Semestre • 2024-1
+# 5° Semestre • 2025-1
 ## Stratify - Sistema de Geolocalização
 
 <p align="center">
