@@ -134,7 +134,8 @@ Essas tecnologias facilitam a interação entre o usuário e a aplicação, perm
 <hr></hr>
 <br><br>
 
-## Aprendizados
+# Aprendizados
+
 <p>Durante o projeto da API do 1ºSemestre atuei como desenvolvedor, elaborando e construindo implementações do projeto. Pude aumentar o meu conhecimento na linguagem Python e utilizá-la para diferentes propósitos. Além de compreender como funciona a lógica de programação, conceitos de repetição, conceitos de condicionais entre outros paradigmas da programação.</p>
 
 
