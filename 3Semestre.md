@@ -34,20 +34,23 @@ Repositório: <a href="https://github.com/Equipe-Void/drconvert.git">GIT</a>
     #### REACT:  
     O React é uma biblioteca JavaScript focada na construção de interfaces de usuário dinâmicas e reutilizáveis. Ele organiza o código em componentes independentes, permitindo que cada parte da página seja atualizada de forma eficiente sem a necessidade de recarregar toda a página. O React facilita a criação de layouts interativos, mantendo o desempenho elevado e a manutenção simplificada.
 
-#### Hard Skills
-
-- Git/GitHub - Realizei o versionamento de código e colaborei eficientemente com a equipe, utilizando branches, pull requests e resolvendo conflitos de forma ágil.
-
-- React - Desenvolvi interfaces interativas e dinâmicas no Front-End, utilizando componentes reutilizáveis e garantindo uma navegação fluida e eficiente.
-
-- Tailwind CSS - Apliquei este framework para estilizar as interfaces de maneira rápida e prática, com design responsivo e personalizável através de utilitários de classe.
-
-- TypeScript - Utilizei a linguagem para adicionar tipagem estática ao código JavaScript, melhorando a segurança e a manutenção do código no Front-End.
-
-- MySQL - Fiquei responsável pela modelagem de dados e gerenciamento de bancos relacionais, criando consultas SQL avançadas e realizando ajustes no banco conforme necessário.
 
 
-#### Soft Skills
-- Trabalho em equipe - Colaborei de forma eficiente com o grupo, ouvindo atentamente, compartilhando ideias e mantendo empatia, sempre com foco no objetivo final do projeto e no sucesso coletivo.  
-- Comunicação - Utilizei a comunicação constante ao longo do projeto para organizar o backlog, definir tarefas e garantir que as atualizações e feedbacks fossem compartilhados de maneira clara e eficiente.  
-- Ética de trabalho - Demonstrando uma postura ativa e proativa, busquei contribuir com soluções, assumir responsabilidades e apoiar o time, sempre com comprometimento e respeito pelas tarefas e prazos.
+### Hard Skills  
+
+| Habilidade               | Nível        | Por que foi importante? |
+|--------------------------|--------------|-------------------------|
+| **Git/GitHub** | Intermediario | Realizei o versionamento de código e colaborei eficientemente com a equipe, utilizando branches, pull requests e resolvendo conflitos de forma ágil.|
+| **React** | Avançado | Desenvolvi interfaces interativas e dinâmicas no Front-End, utilizando componentes reutilizáveis e garantindo uma navegação fluida e eficiente. |
+| **Tailwind CSS ** | Avançado | Apliquei este framework para estilizar as interfaces de maneira rápida e prática, com design responsivo e personalizável através de utilitários de classe. | 
+| **TypeScript** | Avançado | Utilizei a linguagem para adicionar tipagem estática ao código JavaScript, melhorando a segurança e a manutenção do código no Front-End. |
+| **MySQL** | Avançado | Fiquei responsável pela modelagem de dados e gerenciamento de bancos relacionais, criando consultas SQL avançadas e realizando ajustes no banco conforme necessário. |
+
+
+### Soft Skills
+
+| Habilidade               | Por que foi importante? |
+|--------------------------|-------------------------|
+| **Trabalho em Equipe** | Colaborei de forma eficiente com o grupo, ouvindo atentamente, compartilhando ideias e mantendo empatia, sempre com foco no objetivo final do projeto e no sucesso coletivo. | 
+| **Comunicação** | Utilizei a comunicação constante ao longo do projeto para organizar o backlog, definir tarefas e garantir que as atualizações e feedbacks fossem compartilhados de maneira clara e eficiente. | 
+| **Ética de trabalho** | Demonstrando uma postura ativa e proativa, busquei contribuir com soluções, assumir responsabilidades e apoiar o time, sempre com comprometimento e respeito pelas tarefas e prazos. | 
