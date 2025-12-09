@@ -83,17 +83,24 @@ Contribuições Pessoais
         return sql_where, params
     A ideia dos filtros é prepará-los antes das requisições e depois chamá-los dentro da requisição, deixando os valores novos como opcionais, conseguindo assim aplicar filtros dentro da query do banco de dados.
 
-#### Hard Skills
- - Python - Usei Python como base do backend e o microframework Flask para construir as APIs do sistema. Implementei rotas, regras de negócio e integrações necessárias para suportar as funcionalidades do projeto.
- - Prophet - Treinei modelos de previsão usando Prophet para analisar tendências de séries temporais. Preparei os dados, ajustei parâmetros, validei resultados e gerei previsões confiáveis para apoiar decisões estratégicas.
- - Elastic Search - Ferramenta utilizada no desenvolvimento do projeto, com alto nível de proficiência na customização do ambiente e uso de plugins.
- - PostgreSQL - Utilizei PostgreSQL no armazenamento estruturado dos dados, organizando tabelas, relacionamentos e garantindo consistência das informações utilizadas pelo backend.
- - VueJS - Desenvolvi telas e componentes no front-end usando Vue.js, incluindo a interface do chatbot e outras áreas do sistema. Trabalhei com comunicação via API, estados reativos e usabilidade.
- - Git/GitHub - Utilizei Git para versionamento e GitHub para gerenciar o repositório do projeto, realizando commits, branchs, pull requests e colaborando com o time durante o desenvolvimento.
- - Figma - Participei da construção e validação das telas no Figma, garantindo que o design refletisse a experiência desejada e servisse como base visual para o desenvolvimento.
- - Jira - Utilizei o Jira para organizar tarefas, registrar histórias, acompanhar entregas e manter o fluxo de trabalho alinhado ao Scrum utilizado pela equipe.
+# Aprendizados
 
-#### Soft Skills
-- Comunicação – Mantive alinhamento constante com o time e com o cliente, garantindo entendimento claro dos requisitos, priorizações e expectativas em cada etapa do desenvolvimento e também nas cerimônias do Scrum, como: Daily, Review, Retrospectiva e Planning.
-- Trabalho em equipe – Atuei de forma colaborativa com os desenvolvedores e cliente, integrando entregas entre front-end, back-end e produto para manter o fluxo de desenvolvimento eficiente.
-- Adaptabilidade - Me ajustei rapidamente às mudanças de escopo, novas demandas e diferentes tecnologias utilizadas no projeto, mantendo produtividade e qualidade nas entregas.
+## Hard Skills
+
+| Habilidade               | Por que foi importante? |
+|--------------------------|-------------------------|
+| **Python** | Usei Python como base do backend e o microframework Flask para construir as APIs do sistema. Implementei rotas, regras de negócio e integrações necessárias para suportar as funcionalidades do projeto. | 
+| **Elastic Search** | Ferramenta utilizada no desenvolvimento do projeto, com alto nível de proficiência na customização do ambiente e uso de plugins. | 
+| **PostgreSQL** | Utilizei PostgreSQL no armazenamento estruturado dos dados, organizando tabelas, relacionamentos e garantindo consistência das informações utilizadas pelo backend. | 
+| **VueJS** | Desenvolvi telas e componentes no front-end usando Vue.js, incluindo a interface do chatbot e outras áreas do sistema. Trabalhei com comunicação via API, estados reativos e usabilidade. |
+| **Git/GitHub** | Utilizei Git para versionamento e GitHub para gerenciar o repositório do projeto, realizando commits, branchs, pull requests e colaborando com o time durante o desenvolvimento. |
+| **Figma** | Participei da construção e validação das telas no Figma, garantindo que o design refletisse a experiência desejada e servisse como base visual para o desenvolvimento. |
+| **Jira** | Utilizei o Jira para organizar tarefas, registrar histórias, acompanhar entregas e manter o fluxo de trabalho alinhado ao Scrum utilizado pela equipe.|
+
+## Soft Skills
+
+| Habilidade               | Por que foi importante? |
+|--------------------------|-------------------------|
+| **Comunicaçã** | Mantive alinhamento constante com o time e com o cliente, garantindo entendimento claro dos requisitos, priorizações e expectativas em cada etapa do desenvolvimento e também nas cerimônias do Scrum, como: Daily, Review, Retrospectiva e Planning. | 
+| **Trabalho em equipe** | Atuei de forma colaborativa com os desenvolvedores e cliente, integrando entregas entre front-end, back-end e produto para manter o fluxo de desenvolvimento eficiente. | 
+| **Adaptabilidade** | Me ajustei rapidamente às mudanças de escopo, novas demandas e diferentes tecnologias utilizadas no projeto, mantendo produtividade e qualidade nas entregas. | 
