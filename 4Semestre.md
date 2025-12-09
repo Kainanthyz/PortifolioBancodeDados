@@ -117,9 +117,9 @@ public class GeofenceService {
 }
 ```
 
-## 📈 Aprendizados
+##  Aprendizados
 
-## 🧠 Hard Skills  
+##  Hard Skills  
 
 | Habilidade               | Nível        | Por que foi importante? |
 |--------------------------|--------------|-------------------------|
@@ -128,9 +128,8 @@ public class GeofenceService {
 | **React** <br>(Hooks, API Integration) | Intermediário | Criação de interfaces dinâmicas com alta responsividade. | 
 | **WebSockets** | Básico | Comunicação bidirecional para atualizações instantâneas. |
 
----
 
-## 💡 Soft Skills  
+##  Soft Skills  
 
 | Habilidade               | Por que foi importante? |
 |--------------------------|-------------------------|
