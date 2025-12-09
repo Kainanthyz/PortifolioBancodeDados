@@ -149,7 +149,8 @@ A classe que contém o método de cadastro de vagas no banco então coleta os da
 <hr></hr>
 <br><br>
 
-## Aprendizados
+# Aprendizados
+
 <p>Durante o desenvolvimento do projeto, eu tive o papel de Product Owner, ou seja, tive a função de dialogar constantemente com o cliente parceiro, para esclarecer as dúvidas da equipe, além de mostrar como estava o andamento do projeto. Também tive o papel de levantar os requisitos que deveriam ser desenvolvidos após a reunião de kick-off com o cliente.</p>
 <p>Ao mesmo tempo em que fui PO, também atuei na área de desenvolvimento. Fui responsável pela a elaboração do script de criação do banco de dados da aplicação, além de desenvolver as telas e realiazar a conexão entre o back-end e o banco de dados. Pude aperfeiçoar meus conhecimentos na linguagem Java, principalmente na questão de conexão e manipulação do Banco de Dados. Aprendi também a ser mais comunicativo e gerir o tempo de forma adequada para que todas as atividades fossem entregadas dentro do prazo estipulado. </p>
 
