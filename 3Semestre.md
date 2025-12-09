@@ -35,8 +35,9 @@ Repositório: <a href="https://github.com/Equipe-Void/drconvert.git">GIT</a>
     O React é uma biblioteca JavaScript focada na construção de interfaces de usuário dinâmicas e reutilizáveis. Ele organiza o código em componentes independentes, permitindo que cada parte da página seja atualizada de forma eficiente sem a necessidade de recarregar toda a página. O React facilita a criação de layouts interativos, mantendo o desempenho elevado e a manutenção simplificada.
 
 
+# Aprendizados
 
-### Hard Skills  
+## Hard Skills  
 
 | Habilidade               | Nível        | Por que foi importante? |
 |--------------------------|--------------|-------------------------|
@@ -47,7 +48,7 @@ Repositório: <a href="https://github.com/Equipe-Void/drconvert.git">GIT</a>
 | **MySQL** | Avançado | Fiquei responsável pela modelagem de dados e gerenciamento de bancos relacionais, criando consultas SQL avançadas e realizando ajustes no banco conforme necessário. |
 
 
-### Soft Skills
+## Soft Skills
 
 | Habilidade               | Por que foi importante? |
 |--------------------------|-------------------------|
