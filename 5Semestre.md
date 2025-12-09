@@ -52,7 +52,9 @@ como quais foram os pros e contras da implementação dentro da equipe, também 
 e problemas, caso houver, dentro do processo.
 ```
 
-## 📈 Aprendizados
+# 📈 Aprendizados
+
+## Hard Skills
 
 | Habilidade   | Nível   |   Por que foi importante?   |
 |--------------|---------|-------------------------------------------------------------------|
